@@ -1,8 +1,8 @@
 <?php
-namespace Sanjayojha\LaravelAmazonPaapi5;
+namespace MatthiasVanGorp\LaravelAmazonPaapi5;
 
 use Illuminate\Support\ServiceProvider;
-use Sanjayojha\LaravelAmazonPaapi5\Configuration;
+use MatthiasVanGorp\LaravelAmazonPaapi5\Configuration;
 use GuzzleHttp\Client;
 
 class LaravelAmazonPaapi5ServiceProvider extends ServiceProvider

@@ -1,7 +1,7 @@
 <?php
-namespace Sanjayojha\LaravelAmazonPaapi5;
+namespace MatthiasVanGorp\LaravelAmazonPaapi5;
 
-use Sanjayojha\LaravelAmazonPaapi5\com\amazon\paapi5\v1\api\DefaultApi;
+use MatthiasVanGorp\LaravelAmazonPaapi5\com\amazon\paapi5\v1\api\DefaultApi;
 
 class LaravelAmazonPaapi5 extends DefaultApi
 {

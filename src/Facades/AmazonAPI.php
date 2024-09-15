@@ -1,5 +1,5 @@
 <?php
-namespace Sanjayojha\LaravelAmazonPaapi5\Facades;
+namespace MatthiasVanGorp\LaravelAmazonPaapi5\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
